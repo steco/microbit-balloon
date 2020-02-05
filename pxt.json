@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "display.ts"
+        "display.ts",
+        "balloon.ts"
     ],
     "testFiles": [
         "tests.ts"

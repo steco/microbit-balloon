@@ -1,0 +1,19 @@
+{
+    "name": "pxt-balloon",
+    "version": "1.0",
+    "description": "Utility functions to use a Micro:bit to control a balloon",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "display.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:ee771bc4-ff5d-4d38-d78e-3155af66fdf1"
+}
